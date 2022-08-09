@@ -1,0 +1,63 @@
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\National Bank.csprojAssemblyReference.cache
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\AccountDetails.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\AccountExtra.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\AccountFactory.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Accounts.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ChooseAccount.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ChooseClient.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ClientDetails.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ClientExtra.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ClientFactory.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Clients.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\EmployeeDetails.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\EmployeeFactory.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Employees.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\LoanDetails.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\LoanFactory.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Loans.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\LoansApprove.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Login.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\MainWindow.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ManagerOptions.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\National Bank.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Stats.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Stats2.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\App.g.cs
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\bin\Debug\WpfApplication1.exe.config
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\bin\Debug\WpfApplication1.exe
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\bin\Debug\WpfApplication1.pdb
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\App.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\AccountDetails.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\AccountExtra.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\AccountFactory.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Accounts.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ChooseAccount.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ChooseClient.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ClientDetails.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ClientExtra.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ClientFactory.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Clients.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\EmployeeDetails.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\EmployeeFactory.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Employees.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\LoanDetails.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\LoanFactory.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Loans.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\LoansApprove.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Login.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\MainWindow.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\ManagerOptions.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\National Bank.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Stats.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\Stats2.baml
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1.g.resources
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\National Bank.csproj.GenerateResource.cache
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\National Bank.csproj.CoreCompileInputs.cache
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1.exe
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1.pdb
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\bin\Debug\Database1.mdf
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\bin\Debug\Database1_log.ldf
+C:\Users\talha\Desktop\bank-management-tool-master\National Bank\obj\Debug\WpfApplication1_Content.g.cs
